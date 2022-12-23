@@ -1,6 +1,7 @@
 Star Analyzer Using Lightkurve Library
 
 Python ver: 3.6+
+
 Dependencies: lightkurve, matplotlib, numpy
 
 Usage: python main.py
